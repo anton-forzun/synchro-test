@@ -10,11 +10,11 @@ Instruction:
 
 Installation instructions:
 
-1.git clone
+git clone
 
-2.npm install
+npm install
 
-3.npm run dev
+npm run dev
 
 
 # Vue 3 + Vite
