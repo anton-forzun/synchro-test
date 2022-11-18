@@ -6,7 +6,7 @@ Instruction:
 3. 'Заполнить' button - fills the entire page with cards
 4. 'Очистить' button - deletes all cards except the first
 5. The 'Козина' button shows the deleted cards and allows you to view, delete and restore them.
-5. The user card has a More button to view more information about the user, and an "X" button that removes the card from the page and moves it to the basket
+5. The user card has a 'Подробнее' button to view more information about the user, and an "X" button that removes the card from the page and moves it to the basket
 
 Installation instructions:
 
